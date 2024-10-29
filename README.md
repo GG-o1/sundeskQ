@@ -1,5 +1,8 @@
 # sundeskQ
 ## 欢迎star，后续持续更新
+
+![image](/gzh2.png)
+
 ## 向日葵、todesk临时密码，安全密码读取工具
 
 思路来自yangliukk师傅：https://github.com/yangliukk/FindToDeskPass
